@@ -1,0 +1,38 @@
+.body
+{
+    background: linear-gradient(greenyellow, yellow, orangered);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:100%;
+   }
+.body
+{
+    border-color: blue;
+    border-width: 5px;
+    border-style: solid;
+}
+.mainHeading
+{
+    font-family:lobster;
+    color:blue;
+    padding-top:100px;
+ }
+p
+{
+    padding-bottom:100px;
+    color:blue;
+}
+.pcenter
+{
+    text-align:center;
+    padding-top:40px;
+}
+.mybutton
+{
+    padding:40px 0 20px 0;
+}
+.center {
+    text-align:center;
+    color:black;
+}
